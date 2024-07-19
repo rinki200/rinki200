@@ -31,12 +31,7 @@ Sri Dev Suman Uttarakhand University (2020-2023)
 
 
 🤝 Let's Connect
-LinkedIn: Rinki Saini
+LinkedIn: www.linkedin.com/in/rinki-saini-774a76252
 Email: rinky070900@gmail.com
 
 
-
-
-<!---
-rinki200/rinki200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Previ
