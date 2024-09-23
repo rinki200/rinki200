@@ -1,6 +1,7 @@
  Hi, I'm Rinki Saini (GitHub: [rinki200]) 👋
 
 - About Me
+
 I am currently pursuing my Master's in Computer Application from COER University, Roorkee. With a strong passion for web development and programming, I enjoy creating innovative solutions and continuously strive to expand my skills. I am always eager to collaborate on exciting projects that offer opportunities for learning and professional growth.
 
 🔧 Technical Skills
