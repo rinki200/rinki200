@@ -9,9 +9,9 @@
 
  🔧 Skills
 
-   Languages: Python, C,SQL 
+   Languages: Python, C, SQL 
    Web: HTML, CSS, JavaScript  
-   Database: SQL  
+   Database: SQL (MySQL) 
    Tools: Power BI, Pandas, NumPy, Matplotlib  
    Other: Data Structures & Algorithms
 
