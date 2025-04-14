@@ -20,7 +20,7 @@
 
 - Mind Reader Game: Interactive C-based game with animations (Turbo C)  
 - Portfolio Website: Personal site to showcase my skills (HTML, CSS, JS)  
-- Weather App:** Real-time weather updates using API (HTML, CSS, JS)  
+- Weather App: Real-time weather updates using API (HTML, CSS, JS)  
 - Student Depression Prediction:** Data-driven project analyzing mental health patterns (Python, Pandas)
 
 
